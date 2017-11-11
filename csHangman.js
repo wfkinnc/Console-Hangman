@@ -108,7 +108,8 @@ console.log("*****************");
 
 
 var gameWord = new Word(csHangManWords.wordArray[wordIndex]);
-gameWord.displayWord();
+// displayWord is for testing..
+//gameWord.displayWord();
 //gameWord.showDashedArray();
 csHoldWord = gameWord.setDashArray();
 // displaying the hold word with dashes
