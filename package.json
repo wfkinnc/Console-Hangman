@@ -1,0 +1,26 @@
+{
+  "name": "console-hangman",
+  "version": "1.0.0",
+  "description": "Console based Hangman game showcasing use of JS Construtors to manage the game and display letters.",
+  "main": "csHangman.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wfkinnc/console-hangman.git"
+  },
+  "keywords": [
+    "hangman"
+  ],
+  "author": "W Kassebaum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wfkinnc/console-hangman/issues"
+  },
+  "homepage": "https://github.com/wfkinnc/console-hangman#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "inquirer": "^3.3.0"
+  }
+}
